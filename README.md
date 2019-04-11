@@ -21,6 +21,18 @@ Variety of curated information and links about Azure Storage
 |        | |BlockBlobStorage|Locally-redundant storage (LRS)|N/A|Disabled|
 |        | |FileStorage|Locally-redundant storage (LRS)|N/A|Disabled|
 
+## Pricing
+
+- [Azure Storage Pricing](https://azure.microsoft.com/en-us/pricing/details/storage/)
+
+## Documentation
+
+- [[Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
+
+## Updates
+
+- [Azure Storage Updates](https://azure.microsoft.com/en-us/updates/?product=storage)
+
 ## How to create storage
 
 1. Create a "storage account" under an "Azure subscription" and a "resource group".
