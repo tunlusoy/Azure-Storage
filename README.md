@@ -27,7 +27,9 @@ Variety of curated information and links about Azure Storage
 
 ## Documentation
 
-- [[Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
+- [Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
+
+- [Azure Storage Security Guide](https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide)
 
 ## Updates
 
